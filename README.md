@@ -17,7 +17,8 @@ _____________________________________________________________________
 
 ### Data integrity validation
 
-#### Inner Join
+#### Inner Join:
+
 
 
 <img width="1075" alt="Screen Shot 2023-04-05 at 12 05 10" src="https://user-images.githubusercontent.com/66965539/230139634-9e785846-f281-4dc8-ad72-72777f34951f.png">
