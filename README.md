@@ -7,7 +7,8 @@ from LinkedIn course for my own use
 
 _____________________________________________________________________
 
-### Compare it with Address 1 field
+### Compare it with Address 1 field.  
+Using alias (a1).
 
 
 <img width="423" alt="Screen Shot 2023-04-04 at 13 02 04" src="https://user-images.githubusercontent.com/66965539/229865435-e5473d28-b39e-4f5f-8fc9-ad92348cf35c.png">
