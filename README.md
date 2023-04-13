@@ -31,3 +31,21 @@ Using https://www.mockaroo.com/ to generate mock data.
 
 
 <img width="1206" alt="Screen Shot 2023-04-13 at 13 07 53" src="https://user-images.githubusercontent.com/66965539/231834355-b1dcb52a-2122-406a-862b-ea871364051c.png">
+
+_________________________________________________
+
+### Updating existing entries in a table. 
+
+<img width="289" alt="Screen Shot 2023-04-13 at 13 16 17" src="https://user-images.githubusercontent.com/66965539/231836915-00b51c48-69e0-434f-9dc9-3a8f44668c7d.png">
+
+_________________________________________________
+
+
+<img width="370" alt="Screen Shot 2023-04-13 at 13 21 37" src="https://user-images.githubusercontent.com/66965539/231836768-db73134e-e014-4332-8664-0671baa49c2f.png">
+
+_________________________________________________
+
+<img width="139" alt="Screen Shot 2023-04-13 at 13 21 16" src="https://user-images.githubusercontent.com/66965539/231836972-7887a17b-b42e-4fa0-8730-90731fd224c9.png">
+
+
+
