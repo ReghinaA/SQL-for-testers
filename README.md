@@ -21,5 +21,13 @@ _____________________________________________________________________
 #### Inner Join:
 
 
-
 <img width="1075" alt="Screen Shot 2023-04-05 at 12 05 10" src="https://user-images.githubusercontent.com/66965539/230139634-9e785846-f281-4dc8-ad72-72777f34951f.png">
+
+
+_____________________________________________________________________
+
+### Creating new entries in a table.  
+Using https://www.mockaroo.com/ to generate mock data.  
+
+
+<img width="1206" alt="Screen Shot 2023-04-13 at 13 07 53" src="https://user-images.githubusercontent.com/66965539/231834355-b1dcb52a-2122-406a-862b-ea871364051c.png">
