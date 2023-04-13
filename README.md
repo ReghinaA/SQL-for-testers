@@ -38,14 +38,28 @@ _________________________________________________
 
 <img width="289" alt="Screen Shot 2023-04-13 at 13 16 17" src="https://user-images.githubusercontent.com/66965539/231836915-00b51c48-69e0-434f-9dc9-3a8f44668c7d.png">
 
-_________________________________________________
+_____________________________
 
 
 <img width="370" alt="Screen Shot 2023-04-13 at 13 21 37" src="https://user-images.githubusercontent.com/66965539/231836768-db73134e-e014-4332-8664-0671baa49c2f.png">
 
-_________________________________________________
+_____________________________
 
 <img width="139" alt="Screen Shot 2023-04-13 at 13 21 16" src="https://user-images.githubusercontent.com/66965539/231836972-7887a17b-b42e-4fa0-8730-90731fd224c9.png">
+
+_____________________________
+
+Updating password.
+
+<img width="792" alt="Screen Shot 2023-04-13 at 13 30 24" src="https://user-images.githubusercontent.com/66965539/231839984-12fc6c41-23e1-45e2-b89f-5f8ca7a729ef.png">
+
+All the passwords were updated to 827ccb0eea8a706c4c34a16891f84e7b:
+
+<img width="706" alt="Screen Shot 2023-04-13 at 13 38 36" src="https://user-images.githubusercontent.com/66965539/231840396-730dbe1d-ab73-430b-995f-7e875f992ec3.png">
+
+
+
+
 
 
 
